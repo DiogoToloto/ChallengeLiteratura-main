@@ -25,7 +25,7 @@ Para executar a aplicação localmente, siga estas etapas:
 ## Clone este repositório:
 bash
 Copiar código
-git clone https://github.com/seuusuario/livraria.git
+git clone https://github.com/DiogoToloto/ChallengeLiteratura-main.git
 Certifique-se de ter o Java JDK 17 ou superior instalado.
 Importe o projeto na sua IDE IntelliJ IDEA.
 Configure o PostgreSQL e atualize as configurações no arquivo application.properties.
